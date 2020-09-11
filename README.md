@@ -1,5 +1,5 @@
 # reactjs-news-app
-react js demo news app
+React js demo news app
 
 Follow these steps to run this app:
 
